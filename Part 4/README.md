@@ -212,7 +212,7 @@ k8s.gcr.io/pause                                                   3.1          
 
 ## Confiure the NCP for K8s Cluster 
 
-
+PLEASE INSTALL python ON ALL Master & Nodes - apt-get install python
 In NCP version 2.5 the process of installation and configuration of the NCP improved a lot by automating it.
 The only thing that we need to do is configure one yaml file name ncp-ubuntu.yaml. we can find this file in the folder of the NCP installation. 
 
